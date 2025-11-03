@@ -36,6 +36,7 @@ Daily-Reward-Popover/
 2. Open the project folder  
    ```bash
    cd Daily-Reward-Popover
+   cd frontend-snippets/daily-reward-popover
    ```
 
 3. Launch the project  
