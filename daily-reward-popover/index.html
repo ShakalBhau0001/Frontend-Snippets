@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Reward Popover</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="center-container">
+    <button class="btn" popovertarget="reward" popovertargetaction="show">
+      🎁 Claim Daily Reward
+    </button>
+  </div>
+
+  <div id="reward" popover>
+    <button class="close-btn" popovertarget="reward" popovertargetaction="hide">
+      &times;
+    </button>
+    <h3>Congratulations! 🎉</h3>
+    <p>You have claimed your daily reward of <strong>100 coins</strong>!</p>
+  </div>
+</body>
+</html>
