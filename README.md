@@ -125,7 +125,7 @@ No setup needed — everything runs in-browser.
 ---
 
 ## 🧑‍💻 Author
-**Developed by:** [Shakal Bhau ❤️]  
+**Developed by:** **[Shakal Bhau ❤️]**  
 **GitHub:** [**ShakalBhau0001**](https://github.com/ShakalBhau0001)
 
 ---
