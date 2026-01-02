@@ -10,11 +10,13 @@ radio buttons and smooth CSS transitions.
 
 ## 📁 Project Structure
 
+```bash
 Progress-Bar/
 │
 ├── index.html       # Main HTML structure
 ├── style.css        # Styling and progress animations
 └── README.md        # Project documentation
+```
 
 ---
 
@@ -46,7 +48,6 @@ Progress-Bar/
 ```
 
 > No JavaScript logic is required for the basic version — the interaction is handled entirely using CSS selectors.
-
 
 ---
 
