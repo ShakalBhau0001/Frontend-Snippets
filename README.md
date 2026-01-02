@@ -113,6 +113,34 @@ A clean and elegant **Image Preview App** that shows an image instantly when sel
 
 ---
 
+#### 📊 4. Progress Bar
+
+A clean and interactive **CSS-based Progress Bar** that visually updates based on user selection.
+This snippet demonstrates how to control UI state using **HTML radio inputs** and **pure CSS selectors**, without relying on JavaScript.
+
+#### ✨ Features
+- Interactive progress selection (5%, 25%, 50%, 75%, 100%)
+- Smooth width and color transition animations
+- No JavaScript required (CSS-only logic)
+- Lightweight and easy to understand
+- Ideal for learning CSS state handling
+
+#### 🧠 How It Works
+- Each progress option is represented by a radio button
+- When a radio input is checked, CSS `:checked` state is triggered
+
+#### 🧱 Tech Stack
+- **HTML5**
+- **CSS3 (Transitions & Selectors)**
+
+#### 💻 How to Run
+1. Open the folder `Progress-Bar/`
+2. Launch `index.html` in your browser  
+3. Click on any percentage label
+4. Watch the progress bar update instantly 📊
+
+---
+
 ## ⚙️ Requirements
 No setup needed — everything runs in-browser.
 
