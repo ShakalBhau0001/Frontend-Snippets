@@ -25,6 +25,11 @@ Frontend-Snippets/
 │   ├── script.js                         # JS logic for displaying uploaded image instantly
 │   └── README.md                         # Documentation describing usage and functionality
 │
+├── Progress-Bar/                         # 📊 CSS-based interactive progress bar
+│   ├── index.html                        # Progress bar structure with radio inputs
+│   ├── style.css                         # Progress bar styling and transition effects
+│   └── README.md                         # Documentation explaining CSS logic and usage
+│
 └── README.md                             # 🧾 Main repository documentation
 
 ```
