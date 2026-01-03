@@ -30,6 +30,12 @@ Frontend-Snippets/
 │   ├── style.css                         # Progress bar styling and transition effects
 │   └── README.md                         # Documentation explaining CSS logic and usage
 │
+├── Dropdown-Menu/                        # 🔽 Animated dropdown menu with dynamic icons
+│   ├── index.html                        # Main HTML structure for dropdown and button
+│   ├── style.css                         # Styling, animations, transitions, and layout
+│   ├── script.js                         # Dropdown logic and dynamic interactions
+│   └── README.md                         # Documentation explaining features & usage
+│
 └── README.md                             # 🧾 Main repository documentation
 
 ```
@@ -113,7 +119,7 @@ A clean and elegant **Image Preview App** that shows an image instantly when sel
 
 ---
 
-#### 📊 4. Progress Bar
+### 📊 4. Progress Bar
 
 A clean and interactive **CSS-based Progress Bar** that visually updates based on user selection.
 This snippet demonstrates how to control UI state using **HTML radio inputs** and **pure CSS selectors**, without relying on JavaScript.
@@ -123,7 +129,6 @@ This snippet demonstrates how to control UI state using **HTML radio inputs** an
 - Smooth width and color transition animations
 - No JavaScript required (CSS-only logic)
 - Lightweight and easy to understand
-- Ideal for learning CSS state handling
 
 #### 🧠 How It Works
 - Each progress option is represented by a radio button
@@ -141,11 +146,38 @@ This snippet demonstrates how to control UI state using **HTML radio inputs** an
 
 ---
 
+### 🔽 5. Dropdown Menu
+A modern and visually rich **Dropdown Menu** built using **HTML**, **CSS**, and **JavaScript**, focused on smooth animations and interactive feedback.
+
+This snippet demonstrates how **CSS variables** and **JavaScript** can work together to control complex UI behavior with clean, maintainable logic.
+
+#### ✨ Features
+- Rotating arrow indicator
+- Dynamic SVG icon switching on selection
+- Floating icon that follows cursor on hover
+- CSS variables driven by JavaScript
+
+#### 🧠 How It Works
+- Dropdown items are rendered dynamically using JavaScript
+- CSS custom properties control height, opacity, and animations
+
+#### 🧱 Tech Stack
+- **HTML5**
+- **CSS3 (Variables, Transitions, Flexbox)**
+- **JavaScript (ES6)**
+
+#### 💻 How to Run
+1. Open the folder `Dropdown-Menu/`
+2. Launch `index.html` in your browser  
+3. Click the dropdown button and interact with the menu
+
+---
+
 ## ⚙️ Requirements
 No setup needed — everything runs in-browser.
 
 - Recommended Browsers: **Chrome**, **Edge**, **Firefox**, or **Safari**
-- Internet not required (fully offline)
+- Internet not required (**fully offline**)
 
 ---
 
