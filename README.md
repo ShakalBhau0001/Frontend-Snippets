@@ -6,6 +6,7 @@ Each snippet is lightweight, responsive, and focused on a single concept or UI e
 ---
 
 ## 📁 Folder Structure
+
 ```
 Frontend-Snippets/
 │
@@ -35,6 +36,11 @@ Frontend-Snippets/
 │   ├── style.css                         # Styling, animations, transitions, and layout
 │   ├── script.js                         # Dropdown logic and dynamic interactions
 │   └── README.md                         # Documentation explaining features & usage
+│
+├── Button-Hover/                         # 🖱️ Collection of creative CSS hover buttons
+│   ├── index.html                        # Main HTML file containing all buttons
+│   ├── style.css                         # Combined and scoped CSS for all hover effects
+│   └── README.md                         # Project documentation
 │
 └── README.md                             # 🧾 Main repository documentation
 
