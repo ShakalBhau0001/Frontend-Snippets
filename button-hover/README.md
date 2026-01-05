@@ -13,7 +13,7 @@ This project is ideal for learning **CSS transitions, transforms, pseudo-element
 Button-Hover/
 │
 ├── index.html        # Main HTML file containing all buttons
-├── index.css         # Combined and scoped CSS for all hover effects
+├── style.css         # Combined and scoped CSS for all hover effects
 └── README.md         # Project documentation
 ```
 
