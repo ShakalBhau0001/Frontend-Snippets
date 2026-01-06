@@ -154,7 +154,6 @@ This snippet demonstrates how to control UI state using **HTML radio inputs** an
 
 ### 🔽 5. Dropdown Menu
 A modern and visually rich **Dropdown Menu** built using **HTML**, **CSS**, and **JavaScript**, focused on smooth animations and interactive feedback.
-
 This snippet demonstrates how **CSS variables** and **JavaScript** can work together to control complex UI behavior with clean, maintainable logic.
 
 #### ✨ Features
@@ -176,6 +175,33 @@ This snippet demonstrates how **CSS variables** and **JavaScript** can work toge
 1. Open the folder `Dropdown-Menu/`
 2. Launch `index.html` in your browser  
 3. Click the dropdown button and interact with the menu
+
+---
+
+### 🖱️ 6. Button Hover Effects
+
+A curated collection of **creative CSS-only button hover animations** combined into a single page.
+This snippet showcases how powerful **pseudo-elements**, **transitions**, and **transforms** can be when building interactive UI components — *without JavaScript*.
+Each button demonstrates a different hover concept, neatly scoped to avoid CSS conflicts.
+
+#### ✨ Features
+- Multiple unique hover animations in one page
+- Smooth transitions and visual feedback
+- Clean, scoped class-based styling
+- Easy to reuse individual buttons in other projects
+
+#### 🧠 How It Works
+- Each button is wrapped inside its own section (.btn-1, .btn-2, etc.)
+- CSS selectors are scoped per button, preventing style collisions
+
+#### 🧱 Tech Stack
+- **HTML5**
+- **CSS3 (Transitions, Transforms, Pseudo-elements)**
+
+#### 💻 How to Run
+1. Open the folder `Button-Hover/`
+2. Launch `index.html` in your browser
+3. Hover over each button to see different animations 🖱️✨
 
 ---
 
